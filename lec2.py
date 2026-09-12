@@ -31,12 +31,37 @@ name = "yahya el saftawi"
 # print(text.find("f"))
 # yahya@gmail.com
 # yahya@sfcpal.org
-email = input("Enter your email :") # yahya@gmail.com
-list1 = email.split("@") # ["yahya" ,"gmail.com"]
-username = list1[0] # yahya
-list2 = list1[1].split(".") # ["gmail" , "com"]
-company = list2[0] # gmail
-extention = list2[1] # com
-print(f"the username is {username}")
-print(f"the company is {company}")
-print(f"the extention is {extention}")
+# email = input("Enter your email :") # yahya@gmail.com
+# list1 = email.split("@") # ["yahya" ,"gmail.com"]
+# username = list1[0] # yahya
+# list2 = list1[1].split(".") # ["gmail" , "com"]
+# company = list2[0] # gmail
+# extention = list2[1] # com
+# print(f"the username is {username}")
+# print(f"the company is {company}")
+# print(f"the extention is {extention}")
+# x = 10 
+# y = 15
+# a = 16
+# print(x <= y and a <= y)
+# copersion and copersion
+# True and True => true
+# false and true => false 
+# true and fasle = > false 
+# false and false => false 
+#*****************************************
+# copersion or  copersion
+# True or True => true
+# false or true => true 
+# true or fasle = > true 
+# false or false => false 
+#*******************************************
+# not 
+# not true => false 
+# not false => true
+
+# input Enter number one 
+# input Enter number two 
+# input enter operation 
+reesult = num1 + operation + num 2
+eval(reesult)
